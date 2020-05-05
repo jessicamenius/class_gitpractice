@@ -1,8 +1,4 @@
 purple
 red
-orange
-magenta
-turquoise
-white
-black
-brown
+gold
+shiny

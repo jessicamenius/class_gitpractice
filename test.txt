@@ -1,2 +1,5 @@
 purple
 red
+orange
+magenta
+turquoise

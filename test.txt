@@ -3,3 +3,6 @@ red
 orange
 magenta
 turquoise
+white
+black
+brown
